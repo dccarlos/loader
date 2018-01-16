@@ -1,0 +1,8 @@
+{"namespace": "com.homeaway.kafka.csv.loader",
+  "type": "record",
+  "name": "Type2",
+  "fields": [
+    {"name": "Code", "type": "string"},
+    {"name": "Description", "type": "string"}
+  ]
+}
